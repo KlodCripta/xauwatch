@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/xauwatch_screenshot_1.png" width="600">
+  <img src="xauwatch_poster.png" width="500">
 </p>
 
 <h1 align="center">XAUWATCH – Live Gold Monitor</h1>
