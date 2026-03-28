@@ -11,7 +11,7 @@ A Bash tool that displays the live price of gold (XAU/USD) directly in your term
 <p align="center">
   <img src="https://img.shields.io/badge/Arch%20Linux-supported-1793D1?style=for-the-badge&logo=arch-linux">
   <img src="https://img.shields.io/badge/Bash-Script-green?style=for-the-badge&logo=gnu-bash">
-  <img src="https://img.shields.io/badge/status-pre--release-orange?style=for-the-badge">
+  <img src="https://img.shields.io/github/v/release/KlodCripta/xauwatch?style=for-the-badge">
 </p>
 
 ---
