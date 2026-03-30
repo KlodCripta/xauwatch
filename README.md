@@ -27,7 +27,7 @@ The tool is designed for quick monitoring, without requiring a browser or extern
 ## Screenshot
 
 <p align="center">
-  <img src="screenshots/xauwatch_screenshot.png" width="500">
+  <img src="https://github.com/KlodCripta/xauwatch/blob/main/xauwatch_screenshot.png" width="500">
 </p>
 
 ---
